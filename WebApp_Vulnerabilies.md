@@ -37,16 +37,3 @@ Race conditions are vulnerabilities where concurrent requests interact with shar
 
 - **Burp Suite**: Utilize Burp Repeater with new features for HTTP/1 and HTTP/2 to minimize network jitter and maximize request synchronization.
 
-## Practical Examples
-
-- **Vulnerability Labs**: Practice exploiting race conditions safely against realistic scenarios.
-- **Learning Resources**: Explore original research and whitepapers for deeper insights into race condition attacks.
-
-### Considerations
-
-- **Test Scope**: Understand the application's business logic and potential impacts before testing.
-- **Ethical Use**: Always conduct tests with proper authorization and in alignment with legal guidelines.
-
----
-
-This cheatsheet provides a foundational understanding of race conditions, their types, detection methods, and tools for exploitation. Use it as a reference for learning and practical application in web security testing.
